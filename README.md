@@ -10,3 +10,15 @@ A disciplina tem como foco ensinar os fundamentos de algoritmos, estruturas de d
 - Desenvolver soluções computacionais eficientes para problemas do mundo real.
 - Utilizar boas práticas de codificação e pensamento computacional.
 - Preparar-se para desafios práticos em programação e desenvolvimento de software.
+
+  
+- **aulas/**: Contém os materiais teóricos de cada aula, como slides, resumos ou anotações em Markdown.
+- **exercicios/**: Exercícios práticos para reforçar o aprendizado, organizados por tópicos.
+- **projetos/**: Projetos práticos desenvolvidos ao longo da disciplina, com enunciados e soluções.
+- **recursos/**: Documentos adicionais, como guias de instalação, links úteis e boas práticas.
+
+## 🚀 Como Começar
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/usuario/tecnico-desenvolvimento-algoritmos.git
