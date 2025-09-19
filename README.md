@@ -17,4 +17,8 @@ A disciplina tem como foco ensinar os fundamentos de algoritmos, estruturas de d
 - **projetos/**: Projetos práticos desenvolvidos ao longo da disciplina, com enunciados e soluções.
 - **recursos/**: Documentos adicionais, como guias de instalação, links úteis e boas práticas.
 
+## Exercícios
+As listas de exercício estão resolvidas no documento pynb
+-**https://colab.research.google.com/drive/17NifrX792FiExjLbBd7TPA7jqxWQoupp?usp=sharing**
+
 
