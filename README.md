@@ -18,7 +18,7 @@ A disciplina tem como foco ensinar os fundamentos de algoritmos, estruturas de d
 - **recursos/**: Documentos adicionais, como guias de instalação, links úteis e boas práticas.
 
 ## Exercícios
-As listas de exercício estão resolvidas no documento pynb
+As listas de exercício estão resolvidas no documento pynb </br>
 -**Lista 01** </br> https://colab.research.google.com/drive/17NifrX792FiExjLbBd7TPA7jqxWQoupp?usp=sharing </br>
 -**Lista 02** </br> https://colab.research.google.com/drive/1xXTtq4Ib0Mz_00ooM2UPU0YpWc7TKD8K?authuser=0 </br>
 
